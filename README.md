@@ -1,7 +1,7 @@
 
 # Mini Framework MVC
 
-Este es un miniFramework mvc con router, render y active record.
+Este es un miniFramework mvc con router, render, active record y gulp.
 
 
 
